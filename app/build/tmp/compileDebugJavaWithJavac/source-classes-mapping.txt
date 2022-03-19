@@ -1,0 +1,51 @@
+com/notes/di/AppModule_ProvideNoteDatabaseFactory.java
+ com.notes.di.AppModule_ProvideNoteDatabaseFactory
+com/notes/databinding/FragmentNoteListBinding.java
+ com.notes.databinding.FragmentNoteListBinding
+com/notes/data/NoteDao_Impl.java
+ com.notes.data.NoteDao_Impl
+ com.notes.data.NoteDao_Impl$1
+ com.notes.data.NoteDao_Impl$2
+ com.notes.data.NoteDao_Impl$3
+ com.notes.data.NoteDao_Impl$4
+com/notes/databinding/FragmentNoteDetailsBinding.java
+ com.notes.databinding.FragmentNoteDetailsBinding
+com/notes/databinding/FragmentNoteAddBinding.java
+ com.notes.databinding.FragmentNoteAddBinding
+com/notes/ui/details/NoteDetailsViewModel_Factory.java
+ com.notes.ui.details.NoteDetailsViewModel_Factory
+com/notes/databinding/ListItemNoteBinding.java
+ com.notes.databinding.ListItemNoteBinding
+com/notes/BuildConfig.java
+ com.notes.BuildConfig
+com/notes/ui/add/NoteAddViewModel_Factory.java
+ com.notes.ui.add.NoteAddViewModel_Factory
+com/notes/data/NoteDatabase_Impl.java
+ com.notes.data.NoteDatabase_Impl
+ com.notes.data.NoteDatabase_Impl$1
+com/notes/ui/list/NoteListFragment_MembersInjector.java
+ com.notes.ui.list.NoteListFragment_MembersInjector
+com/notes/ui/details/NoteDetailsFragment_MembersInjector.java
+ com.notes.ui.details.NoteDetailsFragment_MembersInjector
+com/notes/di/DetailViewModelFactory_Factory.java
+ com.notes.di.DetailViewModelFactory_Factory
+com/notes/di/AddViewModelFactory_Factory.java
+ com.notes.di.AddViewModelFactory_Factory
+com/notes/di/DaggerAppComponent.java
+ com.notes.di.DaggerAppComponent
+ com.notes.di.DaggerAppComponent$1
+ com.notes.di.DaggerAppComponent$Builder
+ com.notes.di.DaggerAppComponent$NoteAddComponentBuilder
+ com.notes.di.DaggerAppComponent$NoteAddComponentImpl
+ com.notes.di.DaggerAppComponent$NoteDetailComponentBuilder
+ com.notes.di.DaggerAppComponent$NoteDetailComponentImpl
+ com.notes.di.DaggerAppComponent$NoteListComponentBuilder
+ com.notes.di.DaggerAppComponent$NoteListComponentImpl
+com/notes/di/NoteListViewModelFactory_Factory.java
+ com.notes.di.NoteListViewModelFactory_Factory
+com/notes/ui/list/NoteListViewModel_Factory.java
+ com.notes.ui.list.NoteListViewModel_Factory
+com/notes/databinding/ActivityRootBinding.java
+ com.notes.databinding.ActivityRootBinding
+com/notes/ui/add/NoteAddFragment_MembersInjector.java
+ com.notes.ui.add.NoteAddFragment_MembersInjector

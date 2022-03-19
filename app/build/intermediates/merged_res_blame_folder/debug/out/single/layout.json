@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/khametovkamil/Downloads/notes-test-assignment-android-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_note_add.xml",
+        "source": "/Users/khametovkamil/Downloads/notes-test-assignment-android-main/app/src/main/res/layout/fragment_note_add.xml"
+    },
+    {
+        "merged": "/Users/khametovkamil/Downloads/notes-test-assignment-android-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_note_list.xml",
+        "source": "/Users/khametovkamil/Downloads/notes-test-assignment-android-main/app/src/main/res/layout/fragment_note_list.xml"
+    },
+    {
+        "merged": "/Users/khametovkamil/Downloads/notes-test-assignment-android-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_root.xml",
+        "source": "/Users/khametovkamil/Downloads/notes-test-assignment-android-main/app/src/main/res/layout/activity_root.xml"
+    },
+    {
+        "merged": "/Users/khametovkamil/Downloads/notes-test-assignment-android-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_item_note.xml",
+        "source": "/Users/khametovkamil/Downloads/notes-test-assignment-android-main/app/src/main/res/layout/list_item_note.xml"
+    },
+    {
+        "merged": "/Users/khametovkamil/Downloads/notes-test-assignment-android-main/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_note_details.xml",
+        "source": "/Users/khametovkamil/Downloads/notes-test-assignment-android-main/app/src/main/res/layout/fragment_note_details.xml"
+    }
+]
